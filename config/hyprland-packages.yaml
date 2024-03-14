@@ -7,3 +7,4 @@ repos:
 install:
   - python-pywayland
   - python-pywlroots
+  - qtile
