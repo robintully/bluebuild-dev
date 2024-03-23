@@ -33,3 +33,6 @@ zsh:
 # Switch to the fish shell
 fish:
     sudo lchsh $USER /usr/bin/fish 
+
+assemble-distrobox:
+    distrobox assemble --file /usr/share/distrobox/distrobox.ini
