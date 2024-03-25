@@ -35,4 +35,4 @@ fish:
     sudo lchsh $USER /usr/bin/fish 
 
 assemble-distrobox:
-    distrobox assemble --file /usr/share/distrobox/distrobox.ini
+    distrobox assemble create --file /usr/share/distrobox/distrobox.ini
